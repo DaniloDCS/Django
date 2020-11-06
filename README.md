@@ -29,7 +29,7 @@
     > py -m pip install --upgrade pip
 
 ### 5. Inicie a máquina virtual
-- Windows e Linux:
+- Windows:
     > cd myvenv/Scripts
 
     > activate
